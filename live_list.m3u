@@ -1,4 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="Filmax.pk" tvg-name="Filmax" group-title="Movies",Filmax SD
-https://s3.ideationtec.live/Filmax/Filmax.m3u8
+#EXTINF:-1 group-title="Playlists",Load Malaysia Playlist
+https://iptv-org.github.io/iptv/countries/my.m3u
+
+#EXTINF:-1 group-title="Playlists",Load Indonesia Playlist
+https://iptv-org.github.io/iptv/countries/id.m3u
