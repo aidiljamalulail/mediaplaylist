@@ -1,5 +1,8 @@
 #EXTM3U x-tvg-url="https://weareblahs.github.io/epg/mytv.xml"
 
+#EXTINF:-1 tvg-id="Sample.Channel" group-title="Demo",Sample Channel
+https://bitdash-a.akamaihd.net/content/MI201109210084_1/m3u8s/f08e80da-bf1d-4e3d-8899-f0f6155f6efa.m3u8
+
 #EXTINF:-1 tvg-id="tv1" tvg-name="TV1" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/tv1_bckg" group-title="Malaysia",TV1 (RTM)
 https://rtm-live.akamaized.net/hls/live/2034440/tv1/master.m3u8
 
